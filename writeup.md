@@ -30,6 +30,7 @@ Websites are primarily created using:
 •	JavaScript, implement complex features on pages using interactivity
 Hyper Text Markup Language (HTML) is the language websites are written in. Elements (also known as tags) are the building blocks of HTML pages and tells the browser how to display content. The code snippet below shows a simple HTML document, the structure of which is the same for every website:
 ![alt text](https://github.com/BarathkumarJK/THM-writeups/blob/main/How%20websites%20work%20writeup/images/2..png)
+
 The HTML structure (as shown in the screenshot) has the following components:
 •	The <!DOCTYPE html> defines that the page is a HTML5 document. This helps with standardisation across different browsers and tells the browser to use HTML5 to interpret the page.
 •	The <html> element is the root element of the HTML page - all other elements come after this element.
